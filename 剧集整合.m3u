@@ -17,3 +17,31 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 ,凤凰电影
 https://www.fanmingming.cn/hls/fhdy.m3u8
+#EXTINF:-1 ,天映经典
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 ,天映经典2
+http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 ,Astro AOD
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1 ,Astro AEC ᴴᴰ
+http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+#EXTINF:-1 ,Astro 双星 ᴴᴰ
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 ,Astro 全佳 ᴴᴰ
+http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1 ,Astro Xiao Tai Yang
+http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1 ,Astro Hua Hee Dai
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1 ,Astro Shuang Xing
+http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 ,iQIYI
+http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+#EXTINF:-1 ,C+-影视
+http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/01.m3u8
+#EXTINF:-1 ,NHK-综合
+http://203.162.235.41:16903
+#EXTINF:-1 ,Astro-爱奇艺
+http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
+#EXTINF:-1 ,Astro-港剧台
+http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
