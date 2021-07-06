@@ -1,0 +1,263 @@
+#EXTM3U
+#EXTINF:-1 ,フジテレビ
+http://203.162.235.41:16904
+#EXTINF:-1 ,日テレ
+http://203.162.235.41:16905
+#EXTINF:-1 ,テレビ朝日;
+http://203.162.235.41:16906
+#EXTINF:-1 ,サンテレビ;
+http://203.162.235.41:16907
+#EXTINF:-1 ,テレビ東京;
+http://203.162.235.41:16908
+#EXTINF:-1 ,NHK BSプレミアム;
+http://203.162.235.41:16910
+#EXTINF:-1 ,BSフジ;
+http://203.162.235.41:16911
+#EXTINF:-1 ,BS 日テレ
+http://203.162.235.41:16912
+#EXTINF:-1 ,BS TBS
+http://203.162.235.41:16913
+#EXTINF:-1 ,BS 朝日
+http://203.162.235.41:16914
+#EXTINF:-1 ,BS 東京
+http://203.162.235.41:16915
+#EXTINF:-1 ,WOWOW シネマ
+http://203.162.235.41:16916
+#EXTINF:-1 ,TJB 대전방송(SBS 大田)
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 ,Tokyo MX 1
+http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+#EXTINF:-1 ,MTN
+http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+#EXTINF:-1 ,CPBC
+https://media1.cpbc.co.kr:8888/vod/_definst_/mp4:ads/spot_khs.mp4/chunklist.m3u8
+#EXTINF:-1 ,EBS+ 2
+http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 ,EBS+ 1
+http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 ,Tokyo MX 2
+http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+#EXTINF:-1 ,KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 ,KCTV 광주 CH21
+http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+#EXTINF:-1 ,KCTV 광주 CH05
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 ,BBS 불교방송
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+#EXTINF:-1 ,韩国BBS佛教广播
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+#EXTINF:-1 ,KNN SBS
+http://211.220.195.200:1935/live/mp4:KnnTV.sdp/chunklist_w1445879965.m3u8
+#EXTINF:-1 ,韓國lEBS 兒童頻道
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+#EXTINF:-1 ,韩国YTN SCIENCE
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
+#EXTINF:-1 ,SBS国际
+http://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+#EXTINF:-1 ,日テレNews24
+https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 ,BesTV6
+http://39.134.39.37/PLTV/88888888/224/3221226121/index.m3u8
+#EXTINF:-1 ,日韩频道선거방송
+http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+#EXTINF:-1 ,m2o音乐
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 ,日本Japanet Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+#EXTINF:-1 ,Luxury World
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 ,韩国 Ⅰ 阿里郎WORLD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+#EXTINF:-1 ,ウェザーニュース;
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 ,MARTI
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1 ,MX Live
+http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+#EXTINF:-1 ,YTN DMB
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+#EXTINF:-1 ,YTN
+http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+#EXTINF:-1 ,여수MBC(MBC Yeosu)
+https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
+#EXTINF:-1 ,울산MBC(MBC Ulsan)
+https://5ddfd163bd00d.streamlock.net:443/nHDTV/nHDTV/playlist.m3u8
+#EXTINF:-1 ,CJB청주방송(SBS 淸州)
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 ,TBC 대구(SBS 大邱)
+http://221.157.125.239:1935/live/psike/playlist.m3u8
+#EXTINF:-1 ,韓國EBS Kids
+http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 ,EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 ,YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+#EXTINF:-1 ,韩国Arirang TV
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 ,EBSe
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,韩国基督教CGNTV韩国
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/playlist.m3u8
+#EXTINF:-1 ,韩国购物GS Shop
+https://livem.gsshop.com/gsshop_hd/_definst_/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 ,BBSTV
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 ,EBS 1
+http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,KCTV_
+http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+#EXTINF:-1 ,NBS日韩频道농업방송
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 ,韩国·TBS
+http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
+#EXTINF:-1 ,韩国·SBS CJB
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+#EXTINF:-1 ,韩国·KNN SBS综艺
+http://211.220.195.200:1935/live/mp4:KnnTV.sdp/chunklist_w762151441.m3u8
+#EXTINF:-1 ,韩国·KBC SBS综艺
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 ,韩国·MBC综艺频道
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 ,韩国·EBS第一频道
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+#EXTINF:-1 ,韩国·EBS第二频道
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+#EXTINF:-1 ,韩国·EBS加一频道
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+#EXTINF:-1 ,韩国·EBS加二频道
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+#EXTINF:-1 ,韩国·日常电视
+http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
+#EXTINF:-1 ,Japanet Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF:-1 ,NJPW World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+#EXTINF:-1 ,NTV News24
+http://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 ,QVC Japan
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 ,Shop Channel
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 ,WeatherNews
+http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 ,EBS 1
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist_w1081857294.m3u8?time=1454375113788
+#EXTINF:-1 ,EBS Plus 1
+http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 ,EBS Plus 2
+http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 ,KBC
+http://221.157.125.232:1935/live/kbctv/playlist.m3u8
+#EXTINF:-1 ,TBC
+http://221.157.125.232:1935/live/psike/playlist.m3u8
+#EXTINF:-1 ,Bright Smart Channel (Opt-2)
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 ,J SPORTS 1
+http://redlabmcdn.s.llnwi.net/jp01/bs15/index.m3u8
+#EXTINF:-1 ,J SPORTS 2
+http://redlabmcdn.s.llnwi.net/jp01/bs11/index.m3u8
+#EXTINF:-1 ,J SPORTS 3
+http://redlabmcdn.s.llnwi.net/jp01/bs12/index.m3u8
+#EXTINF:-1 ,J SPORTS 4
+http://redlabmcdn.s.llnwi.net/jp01/cs02/index.m3u8
+#EXTINF:-1 ,KCTV_HV2
+http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+#EXTINF:-1 ,KoreaTV
+http://218.38.152.57:1935/mlive/mp4:ch001/playlist.m3u8
+#EXTINF:-1 ,NBS한국농업방송
+https://media.joycorp.co.kr:4443/live/live_360p/playlist.m3u8
+#EXTINF:-1 ,BS12トゥエルビ
+http://redlabmcdn.s.llnwi.net/jp01/bs08/index.m3u8
+#EXTINF:-1 ,BSアニマックス
+http://redlabmcdn.s.llnwi.net/jp01/bs14/index.m3u8
+#EXTINF:-1 ,BS日テレ
+http://redlabmcdn.s.llnwi.net/jp01/bs03/index.m3u8
+#EXTINF:-1 ,BS朝日
+http://redlabmcdn.s.llnwi.net/jp01/bs04/index.m3u8
+#EXTINF:-1 ,EBS1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 ,EBS1
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,EBS2
+http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,EBSe
+http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,NHK BS1
+http://redlabmcdn.s.llnwi.net/jp01/bs01/index.m3u8
+#EXTINF:-1 ,NHK BSP
+http://redlabmcdn.s.llnwi.net/jp01/bs02/index.m3u8
+#EXTINF:-1 ,NHK Eテレ
+http://203.162.235.41:16901
+#EXTINF:-1 ,NHK华语视界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 ,NHK総合・東京
+http://redlabmcdn.s.llnwi.net/jp01/ryowa2/index.m3u8
+#EXTINF:-1 ,NTV News24
+https://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 ,plus3
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/PLAYLIST.m3u8
+#EXTINF:-1 ,キッズステーション
+http://redlabmcdn.s.llnwi.net/jp01/cs04/index.m3u8
+#EXTINF:-1 ,スターチャンネル１
+http://redlabmcdn.s.llnwi.net/jp01/bs09/index.m3u8
+#EXTINF:-1 ,スターチャンネル２
+http://redlabmcdn.s.llnwi.net/jp01/bs10/index.m3u8
+#EXTINF:-1 ,ディズニーチャンネル
+http://redlabmcdn.s.llnwi.net/jp01/bs13/index.m3u8
+#EXTINF:-1 ,テレビ東京
+http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u8
+#EXTINF:-1 ,フジテレビ
+http://redlabmcdn.s.llnwi.net/jp01/ryowa7/index.m3u8
+#EXTINF:-1 ,국방TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 ,국악방송
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 ,머니투데이방송
+http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
+#EXTINF:-1 ,소상공인방송
+http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
+#EXTINF:-1 ,채널i산업방송
+http://121.78.242.199:1935/live/stream.sdp/playlist.m3u8
+#EXTINF:-1 ,日テレジータス
+http://redlabmcdn.s.llnwi.net/jp01/cs01/index.m3u8
+#EXTINF:-1 ,日本 Ⅰ 宝石GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist_w1860888413_b600000.m3u8
+#EXTINF:-1 ,日本∣BRE
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 ,韩国·TBS
+http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
+#EXTINF:-1 ,韩国基督教CGNTV日本
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+#EXTINF:-1 ,韩国基督教CGNTV日本
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/chunklist_w564190259.m3u8
+#EXTINF:-1 ,韩国EBSE频道
+http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+#EXTINF:-1 ,CGNTV韩国
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist_w1604760015.m3u8
+#EXTINF:-1 ,Atameken
+http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/chunklist.m3u8
+#EXTINF:-1 ,The Outdo
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,TBS 韩国频道
+http://tbs.hscdn.com/tbstvweb/tbstv/playlist.m3u8
+#EXTINF:-1 ,FTVLIVE
+http://218.236.58.185:1935/FTVLIVE_MOBILE/Stream_mobile/playlist.m3u8
+#EXTINF:-1 ,CPAC
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+#EXTINF:-1 ,Jewelry电视
+http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+#EXTINF:-1 ,Darcizzle电视
+http://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 ,ArirangTV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 ,WOW!TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1 ,WOW!TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1 ,日本 Ⅰ 全天新闻
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 ,日本 Ⅰ 声优广播
+http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
