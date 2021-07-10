@@ -159,6 +159,8 @@ http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226157/index.m3u8
 #EXTINF:-1 ,IPTV5+蓝光
 http://39.134.39.39/PLTV/88888888/224/3221226273/index.m3u8
+#EXTINF:-1,上海新闻
+http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1 ,上海新闻
 http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1 ,天映电影2
