@@ -3,7 +3,7 @@
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 ,tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro AOD HD 311" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="未分类",Astro AOD
+#EXTINF:-1 tvg-id="311" tvg-name="Astro AOD HD 311" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="Astro",Astro AOD
 http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 #EXTINF:-1 ,tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV
 http://61.238.6.49:8000/bysid/99
@@ -167,39 +167,53 @@ http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天映经典2
 http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro AOD HD 311" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="未分类",Astro AOD
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD HD 311" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="Astro",Astro AOD
 http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Astro AEC HD
+#EXTINF:-1 tvg-id="306" tvg-name="Astro AEC HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="Astro",Astro AEC HD
 http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Astro 双星 HD
+#EXTINF:-1 tvg-id="307" tvg-name="Astro Shuang Xing HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="Astro",Astro 双星 HD
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Astro 全佳 HD
+#EXTINF:-1 tvg-id="308" tvg-name="Astro Quan Jia HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="Astro",Astro 全佳 HD
 http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Astro Xiao Tai Yang
+#EXTINF:-1 tvg-id="304" tvg-name="Astro Xiao Tai Yang HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png" group-title="Astro",Astro Xiao Tai Yang
 http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Astro Hua Hee Dai
+#EXTINF:-1 tvg-id="59" tvg-name="Astro Hua Hee Dai HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png" group-title="Astro",Astro Hua Hee Dai
 http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Astro Shuang Xing
+#EXTINF:-1 tvg-id="307" tvg-name="Astro Shuang Xing HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="Astro",Astro Shuang Xing
 http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iQIYI
+#EXTINF:-1 tvg-id="300" tvg-name="iQIYI HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="未分类",iQIYI
 http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",C+-影视
 http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NHK-综合
 http://203.162.235.41:16903
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Astro-爱奇艺
+#EXTINF:-1 tvg-id="300" tvg-name="iQIYI HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="Astro",Astro-爱奇艺
 http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Astro-港剧台
 http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新加坡
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",ASTRO SPORT 2
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",ASTRO SPORT 2
+#EXTINF:-1 tvg-id="154" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="体育",ASTRO SPORT 2
 http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",ASTRO SPORT 4
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Astro Arena
+#EXTINF:-1 tvg-id="155" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="体育",ASTRO SPORT 2
+http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="156" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="体育",ASTRO SPORT 4
+http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="157" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="体育",ASTRO SPORT 4
+http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="151" tvg-name="Astro Arena HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="体育",Astro Arena
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1 tvg-id="821" tvg-name="WWE Network HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="体育",WWE摔角
+http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
+#EXTINF:-1 tvg-id="815" tvg-name="FOX Sports HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/141_144.png" group-title="体育",Fox Sports 1
+http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
+#EXTINF:-1 tvg-id="816" tvg-name="FOX Sports 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/290_144.png" group-title="体育",Fox Sports 2
+http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
+#EXTINF:-1 tvg-id="817" tvg-name="FOX Sports 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/291_144.png" group-title="体育",Fox Sports 3
+http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+
 #EXTINF:-1 ,韩国
 http://tx2play1.douyucdn.cn/live/17732rtara.flv
+
+#EXTINF:-1 ,ASTRO SUPERSPORT HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
