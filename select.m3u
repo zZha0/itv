@@ -9,7 +9,7 @@ http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 http://61.238.6.49:8000/bysid/99
 #EXTINF:-1 ,tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTVsix
 http://61.238.6.49:8000/bysid/96
-#EXTINF:-1 ,tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",TVB 无线新闻台
+#EXTINF:-1 ,tvg-id="130" tvg-name="无线新闻" tvg-logo="https://img.tvb.com/inews_web/web/tvbnews_icon.gif",TVB 无线新闻台
 http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:-1 ,tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV(99)
 https://cdn.hkdtmb.com/hls/99/index.m3u8
