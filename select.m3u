@@ -9,7 +9,7 @@ http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 http://61.238.6.49:8000/bysid/99
 #EXTINF:-1 ,tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTVsix
 http://61.238.6.49:8000/bysid/96
-#EXTINF:-1 ,tvg-id="130" tvg-name="无线新闻" tvg-logo="https://img.tvb.com/inews_web/web/tvbnews_icon.gif",TVB 无线新闻台
+#EXTINF:-1 ,tvg-id="130" tvg-name="无线新闻" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/415_144.png",TVB 无线新闻台
 http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:-1 ,tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV(99)
 https://cdn.hkdtmb.com/hls/99/index.m3u8
@@ -45,7 +45,7 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m
 http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/415_144.png" group-title="港澳台",无线新闻台
 http://livetv.dnsfor.me:80/channel.10.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经资讯台
 http://livetv.dnsfor.me:80/channel.11.m3u8
@@ -156,7 +156,7 @@ http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/01.m3u8
 http://203.162.235.41:16903
 #EXTINF:-1 tvg-id="300" tvg-name="iQIYI HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="Astro",Astro-爱奇艺
 http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Astro-港剧台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="Astro",Astro-港剧台
 http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新加坡
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
