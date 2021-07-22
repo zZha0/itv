@@ -105,16 +105,18 @@ http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
 http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/zjpd/sd/live.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2 HD
 http://117.169.120.160:8080/live/cctv-2/1.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4高清@1
-http://117.169.120.140:8080/live/cctv-4/.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4高清@IVI
 http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
+http://223.82.250.72/live/hdcctv05plus/1.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11高清
 http://117.169.120.140:8080/live/cctv-11/.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13高清@1
-http://117.169.120.140:8080/live/cctv-13/.m3u8
+http://ivi.neu6.edu.cn/hls/cctv13hd.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15高清
 http://117.169.120.140:8080/live/cctv-15/.m3u8
+#EXTINF:-1 tvg-id="ShanDongTiYu.cn" tvg-name="山东体育" tvg-country="CN" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png" group-title="",山东体育
+http://livealone302.iqilu.com/iqilu/typd.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://39.134.66.66/PLTV/88888888/224/3221225667/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
@@ -152,8 +154,6 @@ http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",C+-影视
 http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NHK-综合
-http://203.162.235.41:16903
 #EXTINF:-1 tvg-id="300" tvg-name="iQIYI HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="Astro",Astro-爱奇艺
 http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="Astro",Astro-港剧台
