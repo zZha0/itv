@@ -11,9 +11,9 @@ http://61.238.6.49:8000/bysid/99
 http://61.238.6.49:8000/bysid/96
 #EXTINF:-1 ,tvg-id="130" tvg-name="无线新闻" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/415_144.png",TVB 无线新闻台
 http://livetv.dnsfor.me/channel.10.m3u8
-#EXTINF:-1 ,有線財經資訊台
+#EXTINF:-1 ,tvg-id="249" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="港澳台",有線財經資訊台
 https://api.leonardpark.dev/live/icable/108
-#EXTINF:-1 ,有線新聞台
+#EXTINF:-1 ,tvg-id="250" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有線新聞台
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 ,tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV(99)
 https://cdn.hkdtmb.com/hls/99/index.m3u8
