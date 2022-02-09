@@ -62,11 +62,11 @@ http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225779/1/ind
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5爱影视
 https://itv.olevod.tv:5443/live/cctv5hdbupt.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5广移动
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226043/1/index.m3u8?fmt=ts2hls
+http://223.110.235.32/ott.js.chinamobile.com/PLTV/3/224/3221227640/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228822/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+广移动
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226128/1/index.m3u8?fmt=ts2hls
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228076/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
@@ -213,14 +213,13 @@ http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8
 
 
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+临时
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226285/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+临时
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226024/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+临时
-http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226043/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+临时
-http://39.134.39.39/PLTV/88888888/224/3221226253/index.m3u8
-
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226171/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1,8K
 http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8
@@ -247,16 +246,16 @@ http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=
 #EXTINF:-1,咪咕视频 冬奥0
 http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
 #EXTINF:-1,CCTV5
-http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
+http://223.110.235.17/ott.js.chinamobile.com/PLTV/3/224/3221228179/index.m3u8
 #EXTINF:-1,CCTV5
 http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1,CCTV5
-http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
+http://223.110.235.34/ott.js.chinamobile.com/PLTV/3/224/3221228082/index.m3u8
 #EXTINF:-1,CCTV5
-http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+http://223.110.236.56/ott.js.chinamobile.com/PLTV/3/224/3221227661/index.m3u8
 #EXTINF:-1,CCTV5
 http://140.207.241.2:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
 #EXTINF:-1,CCTV5+HD
-http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+http://223.110.235.35/ott.js.chinamobile.com/PLTV/3/224/3221228114/index.m3u8
 #EXTINF:-1,CCTV5+HD
-http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221228176/index.m3u8
