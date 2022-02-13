@@ -59,14 +59,14 @@ http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226008/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5爱影视
-https://itv.olevod.tv:5443/live/cctv5hdbupt.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5欧乐
+http://api.localau.vip/live.html?url=https://playfdcusa.olelive.olevod.tv:7443/tv/cctv5hd/hls.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5广移动
-http://223.110.235.32/ott.js.chinamobile.com/PLTV/3/224/3221227640/index.m3u8
+http://223.110.235.32/ott.js.chinamobile.com/PLTV/3/224/3221227478/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228822/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+广移动
-http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228076/index.m3u8
+http://223.110.236.55/ott.js.chinamobile.com/PLTV/3/224/3221227714/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
@@ -248,9 +248,9 @@ http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
 #EXTINF:-1,CCTV5
 http://223.110.235.17/ott.js.chinamobile.com/PLTV/3/224/3221228179/index.m3u8
 #EXTINF:-1,CCTV5
-http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
+http://223.110.235.32/ott.js.chinamobile.com/PLTV/3/224/3221227478/index.m3u8
 #EXTINF:-1,CCTV5
-http://223.110.235.34/ott.js.chinamobile.com/PLTV/3/224/3221228082/index.m3u8
+http://223.110.235.22/ott.js.chinamobile.com/PLTV/3/224/3221227452/index.m3u8
 #EXTINF:-1,CCTV5
 http://223.110.236.56/ott.js.chinamobile.com/PLTV/3/224/3221227661/index.m3u8
 #EXTINF:-1,CCTV5
