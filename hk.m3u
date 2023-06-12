@@ -10,6 +10,13 @@ http://198.16.100.90:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183528931&ct
 #EXTINF:-1 group-title="港澳台「P」",翡翠台
 http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 
+#EXTINF:-1 ,亚洲新闻台
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 ,凤凰卫视香港台
+http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
+#EXTINF:-1 ,iNews 新闻台[1920x1080]
+http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
+
 #EXTINF:-1 group-title="港澳台「P」",VIUTV
 http://198.16.100.90:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225&tsum=0315b071e42f6b8b6f49b6ca58b7393b
 #EXTINF:-1 group-title="港澳台「P」",VIUTV 6
@@ -269,12 +276,7 @@ http://anren.live/HK/AQtR.m3u8ift-live.ifeng.com/timeshift/live/06OLEEWQKN4/time
 http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1 ,明珠台
 http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
-#EXTINF:-1 ,亚洲新闻台
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 ,凤凰卫视香港台
-http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
-#EXTINF:-1 ,iNews 新闻台[1920x1080]
-http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
+
 #EXTINF:-1 ,美亚电影台[1280x720]
 http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
 #EXTINF:-1 ,阿里郎 Arirang[1280x720]
