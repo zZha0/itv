@@ -101,37 +101,6 @@ http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 
 
-#EXTM3U
-#EXTINF:-1,东森幼幼
-http://61.221.81.93:8525/hls/65/807/ch843.m3u8
-#EXTINF:-1,八大综合
-http://61.221.81.93:8530/hls/65/807/ch843.m3u8
-#EXTINF:-1,八大第一
-http://61.221.81.93:8531/hls/65/807/ch843.m3u8
-#EXTINF:-1,年代新闻
-http://61.221.81.93:8532/hls/65/807/ch843.m3u8
-#EXTINF:-1,寰宇新闻
-http://61.221.81.93:8513/hls/65/807/ch843.m3u8
-#EXTINF:-1,东森新闻
-http://61.221.81.93:8527/hls/65/807/ch843.m3u8
-#EXTINF:-1,ELEVEN1
-http://61.221.81.93:8534/hls/65/807/ch843.m3u8
-#EXTINF:-1,ELEVEN2
-http://61.221.81.93:8539/hls/65/807/ch843.m3u8
-#EXTINF:-1,三立新闻
-http://123.51.230.124:8531/.m3u8
-#EXTINF:-1,MoMo亲子
-http://123.51.230.124:8536/.m3u8
-#EXTINF:-1,三立都会台
-http://123.51.230.124:8535/.m3u8
-#EXTINF:-1,壹新闻
-http://123.51.230.124:8550/.m3u8
-#EXTINF:-1,三立台湾台
-http://123.51.230.124:8561/.m3u8
-#EXTINF:-1,非凡新闻
-http://123.51.230.124:8567/.m3u8
-#EXTINF:-1,龙华卡通
-http://123.51.230.124:8600/.m3u8
 #EXTINF:-1,凤凰中文
 http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 #EXTINF:-1,凤凰资讯
